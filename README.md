@@ -4,7 +4,4 @@
 :heavy_check_mark: Access the course here: [ML Zoomcamp 2025](https://datatalks.club/blog/machine-learning-zoomcamp.html)
 
 ---
-
-:warning: DO NOT FORK MY HOMEWORKS, THAT IS **COPYING**:warning:
-
 ---
