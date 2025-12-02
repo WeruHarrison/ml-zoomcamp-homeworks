@@ -3,7 +3,7 @@
 
 This repo contains my solution and reflection for **Module 8 – Deep Learning** of the [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/08-deep-learning) by Datatalks Club led by Alexey Grigorev.
 
-The goal of the homework was to understand how machine learning models are deployed so that they can be used for inference across different machines or applications without rerunning the entire training workflow. This module marked a transition from model experimentation to production-oriented thinking.
+The goal of the homework was to understand the basics of deep learning. It was to give a general overview of deep learning models and how to develop them from already created models.
 
 ---
 
