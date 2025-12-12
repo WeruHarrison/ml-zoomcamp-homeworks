@@ -1,7 +1,7 @@
 # Homework 08 – Deep Learning
 
 
-This repo contains my solution and reflection for **Module 8 – Deep Learning** of the [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/08-deep-learning) by Datatalks Club led by Alexey Grigorev.
+This repo contains my solution and reflection for [**Module 8 – Deep Learning**](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/08-deep-learning) of the [Machine Learning Zoomcamp](https://courses.datatalks.club/ml-zoomcamp-2025/) by Datatalks Club led by [Alexey Grigorev](https://www.linkedin.com/in/agrigorev/).
 
 The goal of the homework was to understand the basics of deep learning. It was to give a general overview of deep learning models and how to develop them from already created models.
 
