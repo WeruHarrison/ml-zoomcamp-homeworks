@@ -31,4 +31,4 @@ I began creating the model using the `course_lead_scoring.csv` dataset. The mode
 ---
 
 ## Final Thoughts
-The module gave me a lot to think about when it comes to model evaluation. I was familiar with the F1 scores from my bachelors studies but I realized that it is not the best metric to use. In fact, there was no single metric that is the industry standard. The most interesting lesson I came out with is that model development is iterative. The initial model is most likely not good enough. These metrics can help improve it.
+The module gave me a lot to think about when it comes to model evaluation. I was familiar with the F1 scores from my Bachelor's studies but I realized that it is not the best metric to use. In fact, there was no single metric that is the industry standard. The most interesting lesson I came out with is that model development is iterative. The initial model is most likely not good enough. These metrics can help improve it.
